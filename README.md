@@ -1,2 +1,17 @@
-# portfolio
-Meu Portfolio desenvolvido com os cursos de HTML e CSS da Alura
+#Bem vindo ao meu projeto de portfólio.
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Guilherme Barrios
+
+### Linkedin: https://www.linkedin.com/guilhermebarrios
+
+```
